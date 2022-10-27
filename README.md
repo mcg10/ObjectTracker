@@ -11,6 +11,13 @@ You'll need OpenCV and Numpy in order to run the code. Once you've downloaded th
 ```
 pip install opencv-python
 pip install numpy
+sudo apt-get install libcblas-dev
+sudo apt-get install libhdf5-dev
+sudo apt-get install libhdf5-serial-dev
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev 
+sudo apt-get install libqtgui4 
+sudo apt-get install libqt4-test
 ```
 
 From there, you should be able to run the code. Press `esc` to end the program
